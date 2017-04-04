@@ -14,6 +14,7 @@ namespace ConsoleApplication1
             Console.WriteLine("hello 123");
             Console.WriteLine("你好");
             Console.WriteLine("123");
+            Console.WriteLine("456");
         }
     }
 }
