@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("an esay day");
             Console.WriteLine("hello");
+            Console.WriteLine("你好");
         }
     }
 }
